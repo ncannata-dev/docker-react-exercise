@@ -1,3 +1,9 @@
+# Dockerized React App
+
+To run it:
+1. `docker build -t docker-react-excercise .`
+2. `docker run -p 81:81 docker-react-excercise`           
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
